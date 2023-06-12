@@ -1,0 +1,30 @@
+.outer-div {
+    background-image: url("./images/purpleBackground.jpg");
+    overflow: auto;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.results{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    margin-top: 10px;
+    -webkit-text-stroke: black 1.5px;
+}
+
+.pic{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.header{
+    -webkit-text-stroke: white 0.5px;
+}
+
+.resize{
+    width: 550px;
+    height: auto;
+}

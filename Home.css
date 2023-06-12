@@ -1,0 +1,33 @@
+.App-logo{
+    width: 550px;
+    height: auto;
+    margin-bottom: -350px;
+    padding: 0px;
+}
+
+.headerT {
+    margin-bottom: -200px;
+    padding: 0px;
+    font-size: 300%;
+    font-weight: bolder;
+    -webkit-text-stroke: 3px black;
+}
+
+.headerBot {
+    margin: 0px;
+    padding: 0px;
+    font-size: 300%;
+    font-weight: bolder;
+    -webkit-text-stroke: 3px black;
+}
+.Home {
+    background-image: url("./images/lady-gaga-grammy.jpg");
+    overflow: auto;
+}
+.gagaStart {
+    margin-top: -10px;
+    margin-bottom: -100px;
+    width: 400px;
+    height: auto;
+    padding: -10px;
+}
